@@ -1,2 +1,2 @@
 # ethereal-synthesizer
-mi proyecto de practica para simulaciones acusticas (sinte por modelado fisico) en tiempo real usando juce
+mi proyecto de práctica para simulaciones acústicas (sintetizador por modelado físico) en tiempo real usando juce y disponible en múltiples plataformas
